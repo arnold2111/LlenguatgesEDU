@@ -17,3 +17,19 @@ C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La 
 CSharp :
 
 CSharp es un lenguaje de programación orientado a objetos desarrollado y estandarizado por Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA
+
+Exercici 2.-Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
+
+
+1.- >Java
+
+	printf(“Hola mundoo”);
+
+2.- >C
+
+	system.out.println(“Hola mundoo”);
+
+3.- >CSharp
+
+	Console.WriteLine(“Hola Mundo”);
+	Console.ReadLine();
