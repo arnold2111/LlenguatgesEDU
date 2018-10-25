@@ -33,3 +33,15 @@ Exercici 2.-Amplia els coneixements sobre tres llenguatges que triïs dels menci
 
 	Console.WriteLine(“Hola Mundo”);
 	Console.ReadLine();
+
+Exercici 3.-Busca llenguatges de programació del següent tipus.
+
+
+Llenguatjes orientats a obejctes:
+
+Ada, C++, C#, VB.NET, Clarion, Delphi, Eiffel, Java, Lexico (en castellano), Objective-C, Ocaml, Oz, PHP, PowerBuilder, Python, Ruby y Smalltalk
+
+
+Llenguatjes orientats a servidors:
+
+Perl,ASP,JSP,PHP
