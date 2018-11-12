@@ -1,6 +1,8 @@
 # LlenguatgesEDU
 Llenguatges EDU
 
+https://github.com/dbistuer/logTito
+
 Practica-Edu-1
 
 
