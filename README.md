@@ -1,24 +1,23 @@
 # LlenguatgesEDU
 Llenguatges EDU
 
-https://github.com/dbistuer/logTito
 
 Practica-Edu-1
 
 
 Exercici 1.-Realitza una recerca per Internet , per tal d'esbrinar quins són els llenguatges de programació que en aquest moment s'estan utilitzant més en el mercat.
 
-Java : 
+Java: 
 
-Java es un lenguaje de programación de propósito general, concurrente, orientado a objetos, que fue diseñado específicamente para tener tan pocas dependencias de implementación como fuera posible. Su intención es permitir que los desarrolladores de aplicaciones escriban el programa una vez y lo ejecuten en cualquier dispositivo
+Java és un llenguatge de programació de propòsit general, concurrent, orientat a objectes, que va ser dissenyat específicament per tenir tan poques dependències d'implementació com fos possible. La seva intenció és permetre que els desenvolupadors d'aplicacions escriguin el programa una vegada i ho s'executin en qualsevol dispositiu
 
-C++ :
+C ++:
 
-C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue el extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, el C++ es un lenguaje híbrido.
+C ++ és un llenguatge de programació dissenyat el 1979 per Bjarne Stroustrup. La intenció de la seva creació va ser el estendre al llenguatge de programació C mecanismes que permeten la manipulació d'objectes. En aquest sentit, des del punt de vista dels llenguatges orientats a objectes, el C ++ és un llenguatge híbrid.
 
-CSharp :
+CSharp:
 
-CSharp es un lenguaje de programación orientado a objetos desarrollado y estandarizado por Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA
+CSharp és un llenguatge de programació orientat a objectes desenvolupat i estandarditzat per Microsoft com a part de la seva plataforma .NET, que després va ser aprovat com un estàndard per la ECMA
 
 Exercici 2.-Amplia els coneixements sobre tres llenguatges que triïs dels mencionats anteriorment i introdueix un exemple de codi.
 
