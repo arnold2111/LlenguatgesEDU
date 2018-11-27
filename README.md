@@ -23,8 +23,12 @@ Exercici 2.-Amplia els coneixements sobre tres llenguatges que triïs dels menci
 
 
 1.- >Java
-
-	printf(“Hola mundoo”);
+	
+	private int caselles = 20;
+	Exemple : printf(“Hola mundoo”);
+	Exemple : for(int i; i<caselles;i++){
+		
+	}
 
 2.- >C
 
